@@ -15,7 +15,7 @@
 :root{
   --principal-color: #f4f4f4;
   --secondary-color: #979797;
-  --important-color: #f15a24;
+  --important-color: #eb5b28;
   --principal-bck: #151515;
   --secondary-bck: #303030;
 
@@ -547,7 +547,7 @@ body{
 }
 
 .imageTwo{
-  background-image: url(https://i.pinimg.com/280x280_RS/b2/85/c6/b285c6d1d3a67100eb35b43d0f25763c.jpg);
+  background-image: url(https://www.oneclub.org/cache/images/userfiles/images/biography/thumbs/384x384/focus_point/Massimo_Vignelli.jpg);
   background-size: cover;
 }
 
